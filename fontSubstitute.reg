@@ -1,0 +1,19 @@
+REGEDIT4
+ 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink]
+"Arial"=hex(7):77,71,79,2d,6d,69,63,72,6f,68,65,69,2e,74,74,63,2c,57,65,6e,51,\
+  75,61,6e,59,69,20,4d,69,63,72,6f,20,48,65,69,20,4d,6f,6e,6f,00,00
+"Lucida Sans Unicode"=hex(7):77,71,79,2d,6d,69,63,72,6f,68,65,69,2e,74,74,63,\
+  2c,57,65,6e,51,75,61,6e,59,69,20,4d,69,63,72,6f,20,48,65,69,20,4d,6f,6e,6f,\
+  00,00
+"Microsoft Sans Serif"=hex(7):77,71,79,2d,6d,69,63,72,6f,68,65,69,2e,74,74,63,\
+  2c,57,65,6e,51,75,61,6e,59,69,20,4d,69,63,72,6f,20,48,65,69,20,4d,6f,6e,6f,\
+  00,00
+"MS Shell Dlg"=hex(7):77,71,79,2d,6d,69,63,72,6f,68,65,69,2e,74,74,63,2c,57,65,\
+  6e,51,75,61,6e,59,69,20,4d,69,63,72,6f,20,48,65,69,20,4d,6f,6e,6f,00,00
+"Tahoma"=hex(7):77,71,79,2d,6d,69,63,72,6f,68,65,69,2e,74,74,63,2c,57,65,6e,51,\
+  75,61,6e,59,69,20,4d,69,63,72,6f,20,48,65,69,20,4d,6f,6e,6f,00,00
+ 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+"MS Shell Dlg"="WenQuanYi Micro Hei"
+"MS Shell Dlg 2"="WenQuanYi Micro Hei"

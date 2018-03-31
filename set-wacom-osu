@@ -1,0 +1,8 @@
+#!/bin/sh
+
+ST=`xinput list --id-only "Wacom Intuos S Pen stylus"`
+
+xsetwacom set $ST RawSample 1
+xsetwacom set $ST Suppress 0
+xsetwacom set $ST PressureRecalibration off
+xsetwacom set $ST Area 1377 0 13977 7076
